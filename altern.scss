@@ -1,0 +1,101 @@
+/* Alternuojantys aprašymai-nuotraukos */
+
+.flex-container3 {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Lato', sans-serif;
+
+    h2 {
+        font-size: 1.8em;
+    }
+
+    p {
+        font-size: 1.3em;
+    }
+}
+
+/* Responsive altern */
+.responsive3 {
+    display: flex;
+    max-width: 100%;
+    align-items: center;
+    justify-content: center;
+
+    div {
+        max-width: 50%;
+        text-align: left;
+        padding-left: 80px;
+    }
+
+    h2 {
+        margin-bottom: 10px;
+    }
+
+    p {
+        max-width: 80%;
+        font-size: 1.25em;
+        font-weight: 150;
+    }
+
+    img {
+        max-width: 50%;
+    }
+}
+
+/* Bootstrap altern */
+
+.bootstrap3 {
+    display: flex;
+    max-width: 100%;
+    align-items: center;
+    justify-content: center;
+
+    div {
+        max-width: 50%;
+        text-align: left;
+        padding-left: 80px;
+    }
+
+    h2 {
+        margin-bottom: 10px;
+    }
+
+    p {
+        max-width: 80%;
+        font-size: 1.25em;
+        font-weight: 150;
+    }
+
+    img {
+        max-width: 50%;
+    }
+}
+
+/* Easy altern */
+
+.easy3 {
+    display: flex;
+    max-width: 100%;
+    align-items: center;
+    justify-content: center;
+
+    div {
+        max-width: 50%;
+        text-align: left;
+        padding-left: 80px;
+    }
+
+    h2 {
+        margin-bottom: 10px;
+    }
+
+    p {
+        max-width: 80%;
+        font-size: 1.25em;
+        font-weight: 150;
+    }
+
+    img {
+        max-width: 50%;
+    }
+}

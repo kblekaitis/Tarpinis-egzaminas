@@ -1,0 +1,33 @@
+.header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 0.25%;
+    padding-bottom: 0.25%;
+    background-color: #F8F9FA;
+    flex-grow: 1;
+    font-family: 'Lato', sans-serif;
+
+    p {
+        display: inline-block;
+        font-size: 1.2em;
+    }
+
+    button {
+        background-color: #007BFF;
+        border: none;
+        color: white;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 1.0em;
+        border-radius: 6px;
+        width: 70px;
+        height: 30px;
+    }
+
+    button:hover {
+        background-color: #084d97;
+        cursor: pointer;
+    }
+}
